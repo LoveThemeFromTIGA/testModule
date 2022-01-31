@@ -1,3 +1,3 @@
-module github.com/be-proficient-in-go-language/code/chapter_06/testModule
+module github.com/testModule
 
 go 1.15
