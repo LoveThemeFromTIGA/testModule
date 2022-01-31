@@ -1,3 +1,3 @@
-module github.com/testModule
+module github.com/LoveThemeFromTIGA/testModule
 
 go 1.15
